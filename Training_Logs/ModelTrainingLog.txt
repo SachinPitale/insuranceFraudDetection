@@ -1,0 +1,132 @@
+2022-05-02/13:35:19		Start of Training
+2022-05-02/13:35:19		Entered the get_data method of the Data_Getter class
+2022-05-02/13:35:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-02/13:35:19		Entered the remove_columns method of the Preprocessor class
+2022-05-02/13:35:19		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-05-02/13:35:19		Entered the is_null_present method of the Preprocessor class
+2022-05-02/13:35:19		Exception occured in is_null_present method of the Preprocessor class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2022-05-02/13:35:19		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2022-05-02/13:35:19		Unsuccessful End of Training
+2022-05-02/13:35:58		Start of Training
+2022-05-02/13:35:58		Entered the get_data method of the Data_Getter class
+2022-05-02/13:35:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-02/13:35:58		Entered the remove_columns method of the Preprocessor class
+2022-05-02/13:35:58		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-05-02/13:35:58		Entered the is_null_present method of the Preprocessor class
+2022-05-02/13:35:58		Exception occured in is_null_present method of the Preprocessor class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2022-05-02/13:35:58		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2022-05-02/13:35:58		Unsuccessful End of Training
+2022-05-02/13:37:27		Start of Training
+2022-05-02/13:37:27		Entered the get_data method of the Data_Getter class
+2022-05-02/13:37:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-02/13:37:27		Entered the remove_columns method of the Preprocessor class
+2022-05-02/13:37:27		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-05-02/13:37:27		Entered the is_null_present method of the Preprocessor class
+2022-05-02/13:37:27		Exception occured in is_null_present method of the Preprocessor class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2022-05-02/13:37:27		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2022-05-02/13:37:27		Unsuccessful End of Training
+2022-05-02/13:38:23		Start of Training
+2022-05-02/13:38:23		Entered the get_data method of the Data_Getter class
+2022-05-02/13:38:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-02/13:38:23		Entered the remove_columns method of the Preprocessor class
+2022-05-02/13:38:23		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-05-02/13:38:23		Entered the is_null_present method of the Preprocessor class
+2022-05-02/13:38:23		Exception occured in is_null_present method of the Preprocessor class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2022-05-02/13:38:23		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2022-05-02/13:38:23		Unsuccessful End of Training
+2022-05-02/13:39:09		Start of Training
+2022-05-02/13:39:15		Entered the get_data method of the Data_Getter class
+2022-05-02/13:39:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-02/13:39:30		Entered the remove_columns method of the Preprocessor class
+2022-05-02/13:39:39		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-05-02/13:39:45		Entered the is_null_present method of the Preprocessor class
+2022-05-02/13:40:42		Exception occured in is_null_present method of the Preprocessor class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2022-05-02/13:40:46		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2022-05-02/13:40:50		Unsuccessful End of Training
+2022-05-02/13:45:34		Start of Training
+2022-05-02/13:45:34		Entered the get_data method of the Data_Getter class
+2022-05-02/13:45:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-02/13:45:34		Entered the remove_columns method of the Preprocessor class
+2022-05-02/13:45:34		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-05-02/13:45:34		Entered the is_null_present method of the Preprocessor class
+2022-05-02/13:45:34		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-05-02/13:45:34		Entered the impute_missing_values method of the Preprocessor class
+2022-05-02/13:45:34		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-05-02/13:45:34		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-05-02/13:45:34		Exception occured in impute_missing_values method of the Preprocessor class. Exception message:  No value is repeated more than once in the column
+2022-05-02/13:45:34		Imputing missing values failed. Exited the impute_missing_values method of the Preprocessor class
+2022-05-02/13:45:34		Unsuccessful End of Training
+2022-05-02/13:50:33		Start of Training
+2022-05-02/13:50:33		Entered the get_data method of the Data_Getter class
+2022-05-02/13:50:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-02/13:50:33		Entered the remove_columns method of the Preprocessor class
+2022-05-02/13:50:33		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-05-02/13:50:33		Entered the is_null_present method of the Preprocessor class
+2022-05-02/13:50:33		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-05-02/13:50:33		Entered the impute_missing_values method of the Preprocessor class
+2022-05-02/13:50:33		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-05-02/13:50:33		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-05-02/13:50:33		Exception occured in impute_missing_values method of the Preprocessor class. Exception message:  No value is repeated more than once in the column
+2022-05-02/13:50:33		Imputing missing values failed. Exited the impute_missing_values method of the Preprocessor class
+2022-05-02/13:50:33		Unsuccessful End of Training
+2022-05-03/10:29:39		Start of Training
+2022-05-03/10:29:39		Entered the get_data method of the Data_Getter class
+2022-05-03/10:29:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-03/10:29:40		Entered the remove_columns method of the Preprocessor class
+2022-05-03/10:29:40		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-05-03/10:29:40		Entered the is_null_present method of the Preprocessor class
+2022-05-03/10:29:40		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-05-03/10:29:40		Entered the impute_missing_values method of the Preprocessor class
+2022-05-03/10:29:52		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-05-03/10:30:02		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-05-03/10:31:01		Exception occured in impute_missing_values method of the Preprocessor class. Exception message:  No value is repeated more than once in the column
+2022-05-03/10:31:04		Imputing missing values failed. Exited the impute_missing_values method of the Preprocessor class
+2022-05-03/10:31:09		Unsuccessful End of Training
+2022-05-03/10:36:52		Start of Training
+2022-05-03/10:36:52		Entered the get_data method of the Data_Getter class
+2022-05-03/10:36:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-03/10:36:52		Entered the remove_columns method of the Preprocessor class
+2022-05-03/10:36:52		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-05-03/10:36:52		Entered the is_null_present method of the Preprocessor class
+2022-05-03/10:36:52		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-05-03/10:36:52		Entered the impute_missing_values method of the Preprocessor class
+2022-05-03/10:36:52		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-05-03/10:36:52		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-05-03/10:36:52		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-05-03/10:36:52		Entered the encode_categorical_columns method of the Preprocessor class
+2022-05-03/10:36:52		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-03/10:36:52		Entered the separate_label_feature method of the Preprocessor class
+2022-05-03/10:36:52		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-05-03/10:36:52		Entered the elbow_plot method of the KMeansClustering class
+2022-05-03/10:36:54		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-05-03/10:36:54		Entered the create_clusters method of the KMeansClustering class
+2022-05-03/10:36:54		Entered the save_model method of the File_Operation class
+2022-05-03/10:36:54		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2022-05-03/10:36:54		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2022-05-03/10:36:54		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-03/10:36:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-03/10:36:54		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-03/10:36:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-03/10:36:54		Entered the get_best_model method of the Model_Finder class
+2022-05-03/10:36:54		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-05-03/10:36:55		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-05-03/10:36:56		AUC for XGBoost:0.625
+2022-05-03/10:36:56		Entered the get_best_params_for_svm method of the Model_Finder class
+2022-05-03/10:36:59		SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-05-03/10:36:59		AUC for SVM:0.5
+2022-05-03/10:36:59		Entered the save_model method of the File_Operation class
+2022-05-03/10:36:59		Model File XGBoost1 saved. Exited the save_model method of the Model_Finder class
+2022-05-03/10:36:59		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-03/10:36:59		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-03/10:36:59		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-03/10:36:59		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-03/10:36:59		Entered the get_best_model method of the Model_Finder class
+2022-05-03/10:36:59		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-05-03/10:37:01		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-05-03/10:37:01		AUC for XGBoost:0.5
+2022-05-03/10:37:01		Entered the get_best_params_for_svm method of the Model_Finder class
+2022-05-03/10:37:02		SVM best params: {'C': 0.1, 'kernel': 'sigmoid', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-05-03/10:37:02		AUC for SVM:0.5
+2022-05-03/10:37:02		Entered the save_model method of the File_Operation class
+2022-05-03/10:37:02		Model File SVM0 saved. Exited the save_model method of the Model_Finder class
+2022-05-03/10:37:02		Successful End of Training
